@@ -27,7 +27,7 @@ namespace ConsoleApplication1
                 Value = "true"
             };
 
-            // test comment
+            // second test
             reservationReq.BookingTraveler = AddBookingTraveler(airItinerary);
 
             reservationReq.FormOfPayment = AddFormOfPayment();
